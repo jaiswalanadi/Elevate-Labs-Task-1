@@ -1,6 +1,7 @@
 # Elevate-Labs-Task-1
 
 The dataset has 2,823 rows and 25 columns. Here are the initial observations before cleaning:
+
 #Issues Identified:
 1. Missing Values:
    - `ADDRESSLINE2`, `STATE`, `POSTALCODE`, and `TERRITORY` have missing values.
